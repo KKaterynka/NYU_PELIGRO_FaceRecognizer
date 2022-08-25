@@ -1,2 +1,2 @@
 
-![](https://github.com/KateKo04/NYU_PELIGRO_FaceRecognizer/tree/main/images/BlackMinimalBanner.png)
+![](https://github.com/KateKo04/GrayscaleImage/blob/main/styles_rm/grayscaled_title.png)
