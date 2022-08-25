@@ -28,5 +28,5 @@ Package cardButtons is for attractive buttons built with the help of graphics.
 * Threads, graphics
 
 # Note!
-To run project successfully you need to add jar name in CLASSPATH. Required .jar files: mysql-connector-java, opencv and javacv (with all required dependencies)
+To run project successfully you need to add jar name in CLASSPATH. Required .jar files: mysql-connector-java, opencv and javacv (with all required dependencies), org-netbeans-modules-swingapp.                                                                                                                                             Also, you need to download classifierLBHP to detect face for capturing and haarcascade_frontalface_alt to train model.
 
